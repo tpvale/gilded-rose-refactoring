@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gildedrose.GildedRoseTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-03-24T01:42:04" hostname="MacBook-Air-de-Tiago.local" time="0.093">
+  <properties/>
+  <testcase name="testSulfurasNeverChanges()" classname="com.gildedrose.GildedRoseTest" time="0.049"/>
+  <testcase name="testNormalItemAfterSellIn()" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="testAgedBrieIncreasesTwiceAfterSellIn()" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="testConjuredItem()" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="testBackstagePassesDropToZero()" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="testBackstagePassesIncreaseThrice()" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="textNormalItemBeforeSellIn()" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="testBackstagePassesIncreaseTwice()" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="testBackstagePassesIncreaseQuality()" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
+  <testcase name="testAgedBrieIncreasesQuality()" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
