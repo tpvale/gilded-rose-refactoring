@@ -19,11 +19,11 @@ O código original continha muitas condições aninhadas e precisava ser refator
 
 ## Como Executar
 
-# Clonar o repositório
+## Clonar o repositório
 git clone https://github.com/seu-usuario/gilded-rose-refactoring.git
 
-# Navegar até o diretório
+## Navegar até o diretório
 cd gilded-rose-refactoring
 
-# Compilar e executar os testes (caso use Maven)
+## Compilar e executar os testes (caso use Maven)
 mvn test
